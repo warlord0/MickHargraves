@@ -6,19 +6,9 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      -  ../lore:/app/lore:ro
       - ./website:/app/website:rw
-      # - ./app:/app
-      # Use named volumes for node_modules to improve performance
-      # - ./node_modules:/app/node_modules:rw
-      # - ./node_modules:/app/website/node_modules:rw
     environment:
       - NODE_ENV=development
-    # command: bash -c "./docusaurus-init.sh"
     command: [ "npm", "start" ]
     # Keep the container running even if the command fails
     restart: on-failure
-
-# volumes:
-#   node_modules:
-#   website_node_modules:
