@@ -177,5 +177,3 @@ But she had also demonstrated just how deeply the supernatural had already marke
 Some journeys changed you forever. Mick knew that better than most.
 
 Now he just had to ensure that the changes would not destroy them all.
-
-

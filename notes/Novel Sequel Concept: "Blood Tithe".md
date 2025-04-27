@@ -80,8 +80,6 @@ Mick and Marchosias emerge with their bond restored and strengthened, but with a
 
 Would you like me to develop any specific aspect of this concept further? I can elaborate on particular scenes, character dynamics, or other elements that interest you.
 
-
-
 I understand your preference for keeping Liz unaware of the supernatural elements. This creates an interesting dynamic where Bob, despite his distrust of Mick, must reluctantly seek his help while hiding this from Liz. Let me revise the Eliza's drawings scene to reflect this change:
 
 # "Blood Tithe" - Revised Novel Sequel Concept
