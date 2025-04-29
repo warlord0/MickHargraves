@@ -1,4 +1,4 @@
-# Black Eyes & Broken Souls: Cosmology and Metaphysics
+# Cosmology and Metaphysics
 
 ## The Nature of Reality
 

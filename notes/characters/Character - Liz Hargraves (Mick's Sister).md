@@ -1,4 +1,4 @@
-# Character Profile: Liz Hargraves (Mick's Sister)
+# Liz Harrison nee. Hargraves (Mick's Sister)
 
 ## Personal Details
 
@@ -31,7 +31,7 @@
 ## Pregnancy & Child
 
 - Liz was four months pregnant when first mentioned in the story
-- Baby: Eliza Grace Harrison
+- Baby: **Eliza Grace Harrison**
 - Born at 3:17 AM after fourteen hours of labor
 - Weighed seven pounds, four ounces
 - During the main storyline, the unborn baby's soul was displaced by Vassago/Baalberith

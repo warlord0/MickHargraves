@@ -1,5 +1,7 @@
 # Memory Reference: Black Eyes & Broken Souls
 
+This document serves as a memory of Book #1 of the series, and can be used as a point of reference to the people, places, and events that occured within it.
+
 ## Key Character Details
 
 ### Michael "Mick" Hargraves

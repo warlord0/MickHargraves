@@ -1,4 +1,4 @@
-# Character Profile: Dr. Victoria Reid/Dr. Eleanor Crane
+# Dr. Victoria Reid/Dr. Eleanor Crane
 
 ## The Split Personality
 

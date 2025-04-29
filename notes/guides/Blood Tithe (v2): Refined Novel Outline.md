@@ -1,4 +1,4 @@
-# Blood Tithe (v2): Refined Novel Outline
+# Blood Tithe (Book #2 v2): Refined Novel Outline
 
 ## Structure Analysis & Adjustments
 

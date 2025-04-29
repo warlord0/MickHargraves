@@ -1,4 +1,4 @@
-# Detective Inspector Diana Reeves - Character Profile
+# Detective Inspector Diana Reeves
 
 ## Background & Professional History
 

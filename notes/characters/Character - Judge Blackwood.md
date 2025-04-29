@@ -1,4 +1,4 @@
-# Character Profile: Judge Blackwood
+# Judge Anthony Blackwood
 
 ## Background & History
 
