@@ -23,17 +23,27 @@ Based on the Novel Structure and Pacing Guide:
 #### Chapter 2: The Carved Judge (Technical/Plot Development)
 
 - Morgue scene with detailed examination of Blackwood's body
-- Technical analysis of the sigils by Marchosias
-- Introduction of the contradictory offering pattern
-- Police procedural elements with Reeves and the coroner
-- Clear mystery setup with the suggestion that Blackwood was sending a message
 
-#### Chapter 3: The Silencing Touch (Action-Focused)
+- Technical analysis of the sigils by Marchosias
+
+- Introduction of the contradictory offering pattern
+
+- Police procedural elements with Reeves and the coroner
+
+- Marchosias examines the markings and makes a strange conclusion.
+
+- They seem contradictory. It's like they are for a sacrificial offering, but the offering is to himself. Why would someone sacrifice themselves to themselves?
+
+- #### Chapter 3: The Silencing Touch (Action-Focused)
 
 - Investigation of Blackwood's mansion
+
 - Tense search scene as Mick senses someone might still be in the house
+
 - Discovery of the paperweight and warning from Marchosias
+
 - Action beat as Mick touches the object and experiences immediate severance
+
 - Disorienting aftermath as Mick suddenly finds himself alone in his own head
 
 #### Chapter 4: Solitary Detective (Character Development)
@@ -126,14 +136,17 @@ Based on the Novel Structure and Pacing Guide:
 - Breakthrough in understanding Blackthorn's overall strategy
 - Identification of Dr. Eleanor Reid as potential whistleblower
 
-#### Chapter 15: The Researcher's Confession (Character Development)
+###### Chapter 15: The Researcher's Confession (Revised Approach)
 
-- Meeting with Dr. Reid reveals personal stories about Blackthorn
-- Character-driven exploration of why people join such organizations
-- Emotional revelation of Blackthorn's true nature and goals
-- Reid's personal regrets and attempt at redemption
-- Reid explains about th easylum, and how it is a key to more information, but it is protected by humans and wards.
-- Dramatic ending with Reid's assassination by shadow entity
+- Mick and Reeves should find evidence pointing to Dr. Reid as a potential whistleblower within Blackthorn
+
+- When they track down and meet "Dr. Reid," she initially appears helpful and concerned
+
+- During their conversation, trigger a shift to the Crane personality
+
+- The transformation should be subtle but unsettling - changes in posture, voice, and demeanor
+
+- End with Crane ordering their elimination while Reid briefly resurfaces to warn them about the asylum
 
 #### Chapter 16: The Binding Anchor (Technical/Plot Development)
 
@@ -201,6 +214,16 @@ Based on the Novel Structure and Pacing Guide:
 
 * Crane' twisted but genuine belief in her mission
 
+* When Mick encounters Crane at the asylum, include moments where Reid temporarily surfaces
+  
+  - Include a moment where Reid breaks through long enough to provide a crucial clue about counter-binding
+  
+  - The Cell itself should trigger these personality shifts, explaining why Crane both fears and is drawn to it
+  
+  - Show Crane's methods for controlling Reid (perhaps medication, ritual objects, or sigils)
+  
+  - Have Crane monologue about the "weakness" she had to overcome (referring to Reid's ethics)
+
 #### Chapter 21: Drawing the Connection (Hybrid)
 
 - Eliza at 15 months old barely vocalises, but shows a strange facination with drawing.
@@ -260,6 +283,11 @@ Based on the Novel Structure and Pacing Guide:
 - Detailed horror elements of demonic essence being stored
 - Marchosias explaining the true horror of what Blackthorn intends
 - From Mick's memories Marchosias learns of the "favour" for Lilaeth
+- Reveal that the Aggregation process would permanently suppress Reid's personality
+- Create a moment where Mick must actively try to reach Reid to gain her help
+- Show that Reid understands the counter-binding better than Crane does
+- Establish that Cell 7B is where the original split occurred during an early experiment
+- Perhaps end with Reid making a sacrifice to help Mick reconnect with Marchosias
 
 ### Chapter 28: SIDE QUEST - The Freed Entities (Hybrid)
 
@@ -367,7 +395,6 @@ This 32-chapter structure follows the guide's recommendations:
 - Horror elements maintained throughout with variety in types of horror (body horror, psychological horror, cosmic horror)
 
 The structure also ensures that after losing Marchosias early, Mick has adequate time to develop as a human detective before the reunion, making that moment more impactful and showing his competence independent of supernatural assistance.
-
 
 ## Future Ideas
 
