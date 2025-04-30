@@ -1,4 +1,4 @@
-# Liz Harrison nee. Hargraves (Mick's Sister)
+# Harrison, Elizabeth "Liz" nee. Hargraves (Mick's Sister)
 
 ## Personal Details
 

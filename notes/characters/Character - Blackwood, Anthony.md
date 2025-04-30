@@ -1,4 +1,4 @@
-# Judge Anthony Blackwood
+# Blackwood, Anthony
 
 ## Background & History
 
@@ -8,7 +8,7 @@
 - Her death was officially ruled as a random violent crime, but Blackwood witnessed supernatural elements
 - This traumatic loss sparked his obsessive hatred of demons and occult forces
 - Dedicated himself to understanding the enemy that took his wife, initially to combat it
-- Co-founded the Blackthorn Institute seven years before his death alongside Dr. Eleanor Reid
+- Co-founded the Blackthorn Institute seven years before his death alongside [Dr. Eleanor Reid](Character - Reid, Victoria.md)
 - Gradually transitioned from wanting to destroy demons to harnessing their power
 - Developed the philosophy that humanity deserved access to demonic abilities without demonic influence
 - Committed ritual suicide as the culmination of years of preparation to become the vessel for "The Aggregation"

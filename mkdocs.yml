@@ -47,14 +47,21 @@ plugins:
   - tags
   - minify:
       minify_html: true
-copyright: Black Eyes and Broken Souls © 2024 by Paul Green is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+  - backlinks_section:
+      # ignore_links_from:
+      #   - index.md
+      # ignore_links_to:
+      #   - index.md
+      add_to_toc: true
+      hide_if_empty: true
+copyright: Black Eyes and Broken Souls © 2024 by Paul Green is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 watch:
   - includes
 extra:
   generator: false
   social:
     - icon: fontawesome/solid/certificate
-      link: https://creativecommons.org/licenses/by-nc/4.0/
+      link: https://creativecommons.org/licenses/by-nc-sa/4.0/
       name: License CC BY-NC-SA 4.0
 markdown_extensions:
   - abbr

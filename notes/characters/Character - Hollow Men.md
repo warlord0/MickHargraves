@@ -1,4 +1,4 @@
-# The Hollow Men
+# Hollow Men
 
 ## Fundamental Nature
 

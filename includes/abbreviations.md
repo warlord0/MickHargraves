@@ -1,1 +1,0 @@
-*[Weiss]: Philip Weiss

@@ -1,4 +1,4 @@
-# Dr. Victoria Reid/Dr. Eleanor Crane
+# Reid, Victoria (Crane, Eleanor)
 
 ## The Split Personality
 
@@ -89,7 +89,7 @@
 - Has refined techniques for keeping Reid suppressed
 - Carries sigils tattooed on her body (normally hidden under clothing) that help maintain her dominance
 
-## Role in the Blackthorn Institute
+## Role in the [Blackthorn Institute](Character - Blackthon Institute.md)
 
 - **Official Position:** Director of Research and Development
 - **Specialization:** Essence extraction and human-demonic integration

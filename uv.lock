@@ -30,6 +30,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "mkdocs" },
+    { name = "mkdocs-backlinks-section-plugin" },
     { name = "mkdocs-material" },
     { name = "mkdocs-minify-plugin" },
 ]
@@ -37,6 +38,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "mkdocs", specifier = ">=1.6.1" },
+    { name = "mkdocs-backlinks-section-plugin", specifier = ">=0.0.5" },
     { name = "mkdocs-material", specifier = ">=9.6.12" },
     { name = "mkdocs-minify-plugin", specifier = ">=0.8.0" },
 ]
@@ -214,6 +216,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/bc/c6/bbd4f061bd16b378247f12953ffcb04786a618ce5e904b8c5a01a0309061/mkdocs-1.6.1.tar.gz", hash = "sha256:7b432f01d928c084353ab39c57282f29f92136665bdd6abf7c1ec8d822ef86f2", size = 3889159 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/22/5b/dbc6a8cddc9cfa9c4971d59fb12bb8d42e161b7e7f8cc89e49137c5b279c/mkdocs-1.6.1-py3-none-any.whl", hash = "sha256:db91759624d1647f3f34aa0c3f327dd2601beae39a366d6e064c03468d35c20e", size = 3864451 },
+]
+
+[[package]]
+name = "mkdocs-backlinks-section-plugin"
+version = "0.0.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "mkdocs" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ee/8d/ed30d5757c28dd0e9bb9dd4464b3500f170719d10bf9fff2207a2133733a/mkdocs_backlinks_section_plugin-0.0.5.tar.gz", hash = "sha256:308c8533f8e2e705174ee5b126cf526737c7fa5d820ec14cdad4808e49ee3487", size = 7560 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/74/30/1f22bb990938eeb968f8b801758f67c7b0695d8b476af93c58f77dea4c4a/mkdocs_backlinks_section_plugin-0.0.5-py3-none-any.whl", hash = "sha256:5e3d273fb9d3e0ca706b359bc9d610c364279b9014dbb149bfab2b56e5a9a78c", size = 8070 },
 ]
 
 [[package]]

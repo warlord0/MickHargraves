@@ -1,4 +1,4 @@
-# Michael "Mick" Hargraves
+# Hargraves, Michael "Mick"
 
 ## Basic Information
 
@@ -10,6 +10,7 @@
 ## Background & History
 
 ### Police Career
+
 - Was once a rising star in the Metropolitan Police
 - Known for his intuitive investigative skills and ability to connect evidence others missed
 - Career ended in the aftermath of the Jamie Matthews case, a traumatic child murder case that broke him psychologically
@@ -17,8 +18,9 @@
 - The department was looking for a reason to remove him due to his deteriorating mental state and increasing alcohol dependence
 
 ### The Jamie Matthews Case
+
 - The defining trauma of Mick's life
-- Jamie Matthews was an 8-year-old boy abducted by serial child murderer [Philip Weiss](Character - Philip Weiss.md)
+- Jamie Matthews was an 8-year-old boy abducted by serial child murderer [Philip Weiss](Character - Weiss, Philip.md)
 - Mick became obsessed with the case, conducting unofficial surveillance on Weiss
 - Weiss became aware of Mick's surveillance and turned it into a sadistic game
 - Led Mick to an abandoned factory with a choice between two doors: one leading to Weiss, one to Jamie
@@ -27,6 +29,7 @@
 - The trauma of his failure with Jamie led to Mick's psychological breakdown and eventual departure from the police
 
 ### Post-Police Life
+
 - Works as a private investigator taking mundane cases (cheating spouses, insurance fraud)
 - Lives in a small, cluttered flat in a working-class area of London
 - Maintains minimal contact with his sister Liz, the only family member who hasn't given up on him
@@ -36,6 +39,7 @@
 ## Personality Traits
 
 ### Before Possession
+
 - Driven by guilt and self-recrimination
 - Emotionally closed-off and defensive
 - Deeply observant despite his self-destructive tendencies
@@ -44,7 +48,8 @@
 - Shows flashes of the once-capable detective beneath his damaged exterior
 - Struggles with authority figures and formal structures
 
-### After Possession by Marchosias
+### After Possession by [Marchosias](Character - Marchosias.md)
+
 - More complex moral perspective, influenced by the demon's ancient viewpoint
 - Increasingly comfortable with supernatural violence when directed at "deserving" targets
 - Developing a strange symbiotic relationship with Marchosias, blurring the lines between their consciousnesses
@@ -56,6 +61,7 @@
 ## Skills & Abilities
 
 ### Detective Skills
+
 - Exceptional observational abilities and pattern recognition
 - Experienced in surveillance and tracking techniques
 - Skilled interrogator who can read people effectively
@@ -63,12 +69,14 @@
 - Proficient in evidence collection and case-building
 
 ### Combat Skills
+
 - Trained in police combat techniques but limited by leg injury
 - Experienced with baton and basic defensive tactics
 - No firearms training beyond basic police procedures (UK context)
 - Fighting style is scrappy and practical rather than refined
 
 ### After Marchosias
+
 - Enhanced physical abilities when Marchosias shares control
 - Ability to see in darkness and perceive supernatural elements
 - Limited access to Marchosias's powers depending on their arrangement
@@ -78,6 +86,7 @@
 ## Weaknesses & Flaws
 
 ### Personal Demons
+
 - Alcoholism and prescription drug abuse
 - Post-traumatic stress from the Jamie Matthews case
 - Self-destructive tendencies and suicidal ideation
@@ -85,12 +94,14 @@
 - Chronic pain from his leg injury
 
 ### Professional Limitations
+
 - Revoked police credentials and limited legal authority
 - Reputation damaged by his breakdown and dismissal
 - Financial instability affecting his resources
 - Unreliable due to substance abuse issues
 
 ### Supernatural Vulnerabilities
+
 - Marchosias is weakened in daylight, leaving Mick more vulnerable
 - The demon requires certain conditions to manifest fully
 - Their partnership is unstable and evolving, creating unpredictable results
@@ -99,15 +110,18 @@
 ## Relationships
 
 ### Family
-- [**Liz Hargraves (Sister):**](Character - Liz Hargraves (Mick's Sister).md) His closest family relationship; social worker; pregnant with her first child; worried about Mick but maintains contact
-- [**Bob Harrison (Brother-in-Law):**](Character - Liz Hargraves (Mick's Sister).md#bob-harrison-husband) Corporate accountant; dislikes Mick and sees him as a negative influence; judgmental of Mick's lifestyle
-- [**Eliza Grace Harrison (Niece):**](Character - Liz Hargraves (Mick's Sister).md#pregnancy-child) Born after the events involving Baalberith; her soul was temporarily displaced and rescued from Hell; maintains a supernatural connection to Mick and Marchosias
+
+- [**Liz Hargraves (Sister):**](Character - Hargraves, Liz (Mick's Sister).md) His closest family relationship; social worker; pregnant with her first child; worried about Mick but maintains contact
+- [**Bob Harrison (Brother-in-Law):**](Character - Hargraves, Liz (Mick's Sister).md#bob-harrison-husband) Corporate accountant; dislikes Mick and sees him as a negative influence; judgmental of Mick's lifestyle
+- [**Eliza Grace Harrison (Niece):**](Character - Hargraves, Liz (Mick's Sister).md#pregnancy-child) Born after the events involving Baalberith; her soul was temporarily displaced and rescued from Hell; maintains a supernatural connection to Mick and Marchosias
 
 ### Professional
-- [**Diana Reeves (Former Police Partner):**](Character - Diana Reeves.md) Detective Inspector who maintains a complex relationship with Mick; pulled him off Philip Weiss during his assault; initially suspicious of Mick's involvement with supernatural elements but evolves into a reluctant ally
+
+- [**Diana Reeves (Former Police Partner):**](Character - Reeves, Diana.md) Detective Inspector who maintains a complex relationship with Mick; pulled him off Philip Weiss during his assault; initially suspicious of Mick's involvement with supernatural elements but evolves into a reluctant ally
 - **Ray Fletcher (Informant):** Former university student turned bartender who sells information; maintained contact with Mick after he left the force
 
 ### Supernatural
+
 - **Marchosias:** Ancient fallen angel turned demon who possesses Mick; their relationship evolves from hostile possession to reluctant partnership to something more complex and symbiotic; experiences emotions through Mick he's never felt before
 - **Shadow Hounds:** Manifestations created from their shared essence; initially extensions of Marchosias but develop a degree of autonomy; protective of Liz and her child
 - **Vassago:** Demon working for Baalberith who becomes their primary antagonist; views Mick and Marchosias's partnership as an abomination and subject for study
@@ -115,11 +129,13 @@
 ## Motivations & Goals
 
 ### Initial Motivations
+
 - Survival and basic subsistence through PI work
 - Numbing emotional pain through substances
 - Occasional glimpses of desire for redemption, particularly in cases involving children
 
 ### Evolving Motivations After Marchosias
+
 - Understanding the nature of his possession and relationship with Marchosias
 - Protecting his sister Liz and her unborn child
 - Confronting supernatural threats using their combined abilities
@@ -127,6 +143,7 @@
 - Coming to terms with his new identity as neither fully human nor fully demon
 
 ### Long-term Goals
+
 - Establishing a new form of existence that balances human and demonic aspects
 - Using their unique abilities to address supernatural threats normal authorities can't handle
 - Building a small circle of trusted allies who understand the reality behind the veil
@@ -136,12 +153,14 @@
 ## Philosophical Outlook
 
 ### Before Possession
+
 - Cynical and nihilistic, seeing little inherent meaning in existence
 - Belief that the world is fundamentally random and cruel
 - Justice viewed as a human construct often failing those who need it most
 - Religious skepticism bordering on atheism
 
 ### After Experiences with Marchosias
+
 - Grappling with the proven existence of supernatural realms and entities
 - Developing a more complex view of morality beyond human constructs
 - Questioning the nature of consciousness and identity
@@ -161,12 +180,14 @@
 ## Character Arc & Development
 
 ### Initial State
+
 - Self-destructive loner consumed by guilt and addiction
 - Barely functioning as a private investigator
 - Minimal human connections beyond transactional relationships
 - Viewing his possession by Marchosias as another punishment in a life full of them
 
 ### Transformation
+
 - Learning to navigate the complex relationship with Marchosias
 - Rediscovering purpose through supernatural investigations
 - Rebuilding trust with key figures like Reeves and Liz
@@ -174,6 +195,7 @@
 - Finding a strange form of redemption through his demonic partnership
 
 ### Ongoing Evolution
+
 - Developing a unique identity that merges human and demonic aspects
 - Building a specialized detective practice focusing on supernatural cases
 - Accepting his role as protector of the boundary between worlds
@@ -192,6 +214,7 @@
 ## Internal Dialogue with Marchosias
 
 Marchosias's dialogue with Mick is distinctive in several ways:
+
 - Appears in Mick's mind in *italics*
 - Often uses archaic or formal phrasing
 - Speaks with a philosophical perspective shaped by millennia of existence

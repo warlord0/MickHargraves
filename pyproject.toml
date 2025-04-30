@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "mkdocs>=1.6.1",
+    "mkdocs-backlinks-section-plugin>=0.0.5",
     "mkdocs-material>=9.6.12",
     "mkdocs-minify-plugin>=0.8.0",
 ]

@@ -1,4 +1,4 @@
-# Detective Inspector Diana Reeves
+# Reeves, Diana
 
 ## Background & Professional History
 

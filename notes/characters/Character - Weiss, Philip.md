@@ -1,4 +1,4 @@
-# Philip Weiss
+# Weiss, Philip
 
 Comprehensive character profile of Philip Weiss that can serve as a reference point for future chapters.
 
