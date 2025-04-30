@@ -9,3 +9,10 @@ dependencies = [
     "mkdocs-material>=9.6.12",
     "mkdocs-minify-plugin>=0.8.0",
 ]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = []
