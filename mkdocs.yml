@@ -1,3 +1,38 @@
 site_name: Black Eyes and Broken Souls
 docs_dir: notes
-theme: readthedocs
+theme:
+  name: material
+  features:
+    - search.suggest
+    - navigation.footer
+  # custom_dir: theme
+  palette:
+    - media: (prefers-color-scheme)
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+plugins:
+  - search
+  - meta
+  - offline
+  - tags
+copyright: Copyright &copy; 2025, Paul Green
+extra:
+  generator: false
+# extra_css:
+#   - stylesheets/dark_theme.css
+#   - stylesheets/codehilite.css

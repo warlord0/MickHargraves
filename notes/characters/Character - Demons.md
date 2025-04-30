@@ -232,6 +232,7 @@ Nyxara is an ancient demon that exists as a collective consciousness distributed
 
 - Processes reality through a fundamentally alien perspective based on collective intelligence
 - Speaks using plural pronouns that shift unpredictably to singular
+- Voice appears constructed from the buzzing of many insect wings
 - Shows patience born of evolutionary timescales—willing to spend decades on plans
 - Exhibits curiosity about other forms of collective existence, including human social structures
 - Values efficiency and purpose above all else, eliminating anything deemed wasteful

@@ -1,6 +1,6 @@
-# Black Eyes and Broken Souls
+# A Michael "Mick" Hargraves Series
 
-## A Michael "Mick" Hargraves Series
+<img src="./logo.svg" width="250px" style="float: right;" alt="logo" />
 
 Former Detective Michael "Mick" Hargraves has hit rock bottom. After the trauma of failing to save a child from a sadistic killer five years ago, he's now a hard-drinking private investigator haunted by guilt. But when his latest bender ends with him overdosing in an abandoned church, Mick awakens with no memory of the past three days—and a dark, sarcastic voice in his head claiming to be an ancient demon who now shares his body and consciousness.
 
