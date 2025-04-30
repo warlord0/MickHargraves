@@ -1,38 +1,52 @@
 site_name: Black Eyes and Broken Souls
 docs_dir: notes
 theme:
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
   name: material
   features:
     - search.suggest
     - navigation.footer
-  # custom_dir: theme
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
+    - navigation.top
+    - toc.follow
   palette:
     - media: (prefers-color-scheme)
       toggle:
-        icon: material/link
+        icon: material/lightbulb-variant
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: red
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
       accent: red
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/lightbulb-multiple-outline
         name: Switch to system preference
 plugins:
   - search
   - meta
   - offline
   - tags
+  - minify:
+      minify_html: true
 copyright: Copyright &copy; 2025, Paul Green
 extra:
   generator: false
-# extra_css:
-#   - stylesheets/dark_theme.css
-#   - stylesheets/codehilite.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde

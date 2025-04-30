@@ -61,7 +61,7 @@ This document serves as a memory of Book #1 of the series, and can be used as a 
 - Incarcerated at Broadmoor with multiple life sentences
 - Bears the Sigillum Lilith mark/tattoo on his wrist
 - Has been possessed by a "lesser entity" since university
-- Receives monthly visits from someone posing as "Dr. Eliza Crane"
+- Receives monthly visits from someone posing as "Dr. Eleanor Crane"
 - Connected to the current cult through the Sigillum Lilith
 
 ### Vassago

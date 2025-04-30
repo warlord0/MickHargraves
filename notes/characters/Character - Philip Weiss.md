@@ -51,7 +51,7 @@ Comprehensive character profile of Philip Weiss that can serve as a reference po
 ## Current Situation
 
 - Incarcerated at Broadmoor maximum security prison
-- Receives monthly visits from someone posing as "Dr. Eliza Crane, Psychological Evaluation"
+- Receives monthly visits from someone posing as "Dr. Eleanor Crane, Psychological Evaluation"
 - Has maintained some form of outside contact despite supposed restrictions
 - Connected to the current case through the Sigillum Lilith tattoo, suggesting involvement with occult practices
 - May have knowledge about the group currently abducting children for ritual purposes
@@ -59,7 +59,7 @@ Comprehensive character profile of Philip Weiss that can serve as a reference po
 ## Key Relationships
 
 - Mick Hargraves: Views Mick as a conquered adversary, someone he "broke" through the Jamie Matthews case
-- "Dr. Eliza Crane": Unknown connection, possibly linked to the current occult activities
+- "Dr. Eleanor Crane": Unknown connection, possibly linked to the current occult activities
 - Unknown occult entity: Based on his tattoo, he has made some form of pact or bargain with a supernatural force
 
 ## Notes for Interrogation
@@ -74,7 +74,7 @@ Comprehensive character profile of Philip Weiss that can serve as a reference po
 
 - Could serve as a bridge between the human and supernatural elements of the story
 - His connection to the sigil suggests his crimes may have had occult motivations beyond what was originally understood
-- The nature of his relationship with "Dr. Eliza Crane" and the current abductions remains to be explored
+- The nature of his relationship with "Dr. Eleanor Crane" and the current abductions remains to be explored
 - His psychological insights might make him uniquely aware of Mick's possession by Marchosias
 
 This profile covers what we currently know about Philip Weiss and should serve as a solid foundation for future chapters involving his character.
