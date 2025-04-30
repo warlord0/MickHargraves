@@ -1,7 +1,7 @@
 [project]
-name = "demonology"
+name = "black-eyes-and-broken-souls"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Mick Hargraves Series"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

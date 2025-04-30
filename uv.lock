@@ -25,6 +25,23 @@ wheels = [
 ]
 
 [[package]]
+name = "black-eyes-and-broken-souls"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "mkdocs" },
+    { name = "mkdocs-material" },
+    { name = "mkdocs-minify-plugin" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "mkdocs", specifier = ">=1.6.1" },
+    { name = "mkdocs-material", specifier = ">=9.6.12" },
+    { name = "mkdocs-minify-plugin", specifier = ">=0.8.0" },
+]
+
+[[package]]
 name = "certifi"
 version = "2025.4.26"
 source = { registry = "https://pypi.org/simple" }
@@ -81,23 +98,6 @@ name = "csscompressor"
 version = "0.9.5"
 source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/f1/2a/8c3ac3d8bc94e6de8d7ae270bb5bc437b210bb9d6d9e46630c98f4abd20c/csscompressor-0.9.5.tar.gz", hash = "sha256:afa22badbcf3120a4f392e4d22f9fff485c044a1feda4a950ecc5eba9dd31a05", size = 237808 }
-
-[[package]]
-name = "demonology"
-version = "0.1.0"
-source = { virtual = "." }
-dependencies = [
-    { name = "mkdocs" },
-    { name = "mkdocs-material" },
-    { name = "mkdocs-minify-plugin" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "mkdocs", specifier = ">=1.6.1" },
-    { name = "mkdocs-material", specifier = ">=9.6.12" },
-    { name = "mkdocs-minify-plugin", specifier = ">=0.8.0" },
-]
 
 [[package]]
 name = "ghp-import"

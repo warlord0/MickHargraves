@@ -1,4 +1,10 @@
 site_name: Black Eyes and Broken Souls
+site_author: Paul Green
+site_description: >-
+  A repository for the lore and character details for the
+  Mick Hargraves series of novels.
+repo_name: MickHargraves
+repo_url: https://github.com/warlord0/MickHargraves
 docs_dir: notes
 theme:
   logo: assets/logo.svg
@@ -40,9 +46,12 @@ plugins:
   - minify:
       minify_html: true
 copyright: Copyright &copy; 2025, Paul Green
+watch:
+  - includes
 extra:
   generator: false
 markdown_extensions:
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.critic
@@ -50,3 +59,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md

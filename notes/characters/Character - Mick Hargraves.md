@@ -18,7 +18,7 @@
 
 ### The Jamie Matthews Case
 - The defining trauma of Mick's life
-- Jamie Matthews was an 8-year-old boy abducted by serial child murderer Philip Weiss
+- Jamie Matthews was an 8-year-old boy abducted by serial child murderer [Philip Weiss](Character - Philip Weiss.md)
 - Mick became obsessed with the case, conducting unofficial surveillance on Weiss
 - Weiss became aware of Mick's surveillance and turned it into a sadistic game
 - Led Mick to an abandoned factory with a choice between two doors: one leading to Weiss, one to Jamie
@@ -99,12 +99,12 @@
 ## Relationships
 
 ### Family
-- **Liz Hargraves (Sister):** His closest family relationship; social worker; pregnant with her first child; worried about Mick but maintains contact
-- **Bob Harrison (Brother-in-Law):** Corporate accountant; dislikes Mick and sees him as a negative influence; judgmental of Mick's lifestyle
-- **Eliza Grace Harrison (Niece):** Born after the events involving Baalberith; her soul was temporarily displaced and rescued from Hell; maintains a supernatural connection to Mick and Marchosias
+- [**Liz Hargraves (Sister):**](Character - Liz Hargraves (Mick's Sister).md) His closest family relationship; social worker; pregnant with her first child; worried about Mick but maintains contact
+- [**Bob Harrison (Brother-in-Law):**](Character - Liz Hargraves (Mick's Sister).md#bob-harrison-husband) Corporate accountant; dislikes Mick and sees him as a negative influence; judgmental of Mick's lifestyle
+- [**Eliza Grace Harrison (Niece):**](Character - Liz Hargraves (Mick's Sister).md#pregnancy-child) Born after the events involving Baalberith; her soul was temporarily displaced and rescued from Hell; maintains a supernatural connection to Mick and Marchosias
 
 ### Professional
-- **Diana Reeves (Former Police Partner):** Detective Inspector who maintains a complex relationship with Mick; pulled him off Philip Weiss during his assault; initially suspicious of Mick's involvement with supernatural elements but evolves into a reluctant ally
+- [**Diana Reeves (Former Police Partner):**](Character - Diana Reeves.md) Detective Inspector who maintains a complex relationship with Mick; pulled him off Philip Weiss during his assault; initially suspicious of Mick's involvement with supernatural elements but evolves into a reluctant ally
 - **Ray Fletcher (Informant):** Former university student turned bartender who sells information; maintained contact with Mick after he left the force
 
 ### Supernatural

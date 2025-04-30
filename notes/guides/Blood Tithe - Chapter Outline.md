@@ -1,6 +1,6 @@
 # Blood Tithe (Book #2) SUPERCEDED
 
-[See Blood Tithe (v2): Refined Novel Outline](/guides/Blood Tithe (v2): Refined Novel Outline)
+[See Blood Tithe (v2): Refined Novel Outline](Blood Tithe (v2): Refined Novel Outline.md)
 
 ## Book #2 - Chapter-by-Chapter Outline
 
