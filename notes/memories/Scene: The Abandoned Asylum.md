@@ -1,4 +1,4 @@
-# The Abandoned Asylum
+# Scene: The Abandoned Asylum
 
 St. Catherine's Hospital loomed against the midnight sky, a Victorian monstrosity of red brick and sharp-angled turrets. The abandoned east wing—closed for renovation according to signs that had weathered beyond legibility—stood in stark contrast to the modern facilities on the hospital's western side. While medical staff tended to patients in brightly lit contemporary wards, the original asylum building waited in darkness, windows either boarded or staring outward like empty eye sockets.
 

@@ -25,21 +25,21 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-    - media: (prefers-color-scheme)
+    - media: "(prefers-color-scheme)"
       toggle:
         icon: material/lightbulb-variant
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
-      accent: red
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: red
-      accent: red
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb-multiple-outline
         name: Switch to system preference
@@ -66,6 +66,8 @@ extra:
     - icon: fontawesome/solid/certificate
       link: https://creativecommons.org/licenses/by-nc-sa/4.0/
       name: License CC BY-NC-SA 4.0
+extra_css:
+  - stylesheets/extra.css
 markdown_extensions:
   - abbr
   - admonition
