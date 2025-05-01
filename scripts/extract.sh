@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default values
-BASE_DIR="/mnt/data/Documents/Black Eyes and Broken Souls"
+BASE_DIR="${PWD##}"
 SCRIPT_NAME="markdown_splitter.py"
 
 # Help function

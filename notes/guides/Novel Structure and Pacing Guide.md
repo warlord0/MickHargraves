@@ -18,7 +18,7 @@
 - Short, punchy scenes (600-800 words)
 - Quick transitions between locations
 - Emphasis on team coordination
-- Integration of Dave's abilities with tactical elements
+- Integration of protagonist's abilities with tactical elements
 
 Example Structure:
 
@@ -97,8 +97,8 @@ Example Structure:
 
 ### POV Distribution
 
-- Primary focus on Dave's perspective (40-45% of chapters)
-- Strategic use of Anya's viewpoint for infiltration sequences (20-25%)
+- Primary focus on protagonist's perspective (40-45% of chapters)
+- Strategic use of deuteragonist's viewpoint for infiltration sequences (20-25%)
 - Serj's perspective for tactical coordination (15-20%)
 - Omar's viewpoint for technical operations (10-15%)
 - Maintain consistent POV within scenes
@@ -108,7 +108,7 @@ Example Structure:
 ### Action Sequences
 
 - Follow action sequence style guide
-- Integrate Dave's abilities naturally
+- Integrate protagonist's abilities naturally
 - Show team coordination
 - Clear spatial awareness
 - Technical precision in combat descriptions
@@ -203,7 +203,7 @@ Verify Each Chapter For:
 - Ensure consistent threat level
 - Maintain tension throughout
 - Honor team relationships
-- Keep Dave's abilities consistent
+- Keep protagonist's abilities consistent
 - Preserve agency structure integrity
 
 ## Word Count Tracking

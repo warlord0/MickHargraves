@@ -136,7 +136,7 @@ Based on the Novel Structure and Pacing Guide:
 - Breakthrough in understanding Blackthorn's overall strategy
 - Identification of Dr. Eleanor Reid as potential whistleblower
 
-###### Chapter 15: The Researcher's Confession (Revised Approach)
+#### Chapter 15: The Researcher's Confession (Revised Approach)
 
 - Mick and Reeves should find evidence pointing to Dr. Reid as a potential whistleblower within Blackthorn
 

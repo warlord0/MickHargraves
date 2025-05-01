@@ -1,4 +1,4 @@
-# The Blackthorn Web
+# Scene: The Blackthorn Web
 
 The evidence wall in Reeves's flat had grown into something resembling a conspiracy theorist's fever dream. Maps marked with red pins, photographs connected by string, photocopied journal pages with critical passages highlighted, printouts of property records and financial transactions—all arranged in meticulous patterns that would appear chaotic to anyone but the two people who had spent days organizing it.
 

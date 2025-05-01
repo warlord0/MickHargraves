@@ -13,13 +13,16 @@ theme:
   favicon: assets/favicon.png
   name: material
   features:
-    - search.suggest
+    - header.autohide
     - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.path
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
-    - navigation.path
     - navigation.top
+    - search.suggest
     - toc.follow
   palette:
     - media: (prefers-color-scheme)
@@ -52,7 +55,7 @@ plugins:
       #   - index.md
       # ignore_links_to:
       #   - index.md
-      add_to_toc: true
+      add_to_toc: false
       hide_if_empty: true
 copyright: Black Eyes and Broken Souls © 2024 by Paul Green is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 watch:
