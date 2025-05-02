@@ -182,7 +182,7 @@ Reality is a spectrum of overlapping realms existing simultaneously within the s
 - Realm transit capabilities
 - Element-specific control or affinity
 
-## [Shadow Mechanics and Manifestations](Detailed/Shadow Travel and Demonic Manifestations: Limitations and Mechanics.md)
+## [Shadow Mechanics and Manifestations](detailed/Shadow Travel and Demonic Manifestations: Limitations and Mechanics.md)
 
 ### Shadow as Substance
 
@@ -414,7 +414,7 @@ Reality is a spectrum of overlapping realms existing simultaneously within the s
 - Abilities stem from pre-birth journey through Infernal Realm
 - Created counter-sigil drawing that broke powerful binding
 
-## [Demonic Subspecies](Detailed/Vampires, Werewolves, and Other Demonic Subspecies.md)
+## [Demonic Subspecies](detailed/Vampires, Werewolves, and Other Demonic Subspecies.md)
 
 ### Essence-Pattern Framework
 
@@ -453,7 +453,7 @@ Reality is a spectrum of overlapping realms existing simultaneously within the s
 - Hereditary transfer through familial lines
 - Soul bargains for willing acceptance
 
-## [The Unique Partnership](Detailed/The Unique Partnership: Mick and Marchosias.md)
+## [The Unique Partnership](detailed/The Unique Partnership: Mick and Marchosias.md)
 
 ### Mick and Marchosias
 

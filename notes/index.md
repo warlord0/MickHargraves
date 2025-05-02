@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # A Michael "Mick" Hargraves Series
 
 <img src="./logo.svg" width="250px" style="float: right;" alt="logo" />

@@ -5,6 +5,7 @@ site_description: >-
   Mick Hargraves series of novels.
 repo_name: Mick Hargraves
 repo_url: https://github.com/warlord0/MickHargraves
+edit_uri: https://github.com/warlord0/MickHargraves/edit/main/notes/
 docs_dir: notes
 theme:
   icon:
@@ -13,6 +14,8 @@ theme:
   favicon: assets/favicon.png
   name: material
   features:
+    - content.action.edit
+    # - content.action.view
     - header.autohide
     - navigation.footer
     - navigation.indexes

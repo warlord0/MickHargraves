@@ -1,0 +1,32 @@
+/* Custom color scheme for Black Eyes and Broken Souls */
+
+:root > * {
+  /* Dark blood red color palette */
+  --md-primary-fg-color:        #8B0000;  /* Dark blood red */
+  --md-primary-fg-color--light: #B22222;  /* Lighter blood red for hover states */
+  --md-primary-fg-color--dark:  #660000;  /* Darker blood red for active states */
+
+  /* Accent color - keeping it in the same family but slightly different */
+  --md-accent-fg-color:         #A30000;  /* Slightly brighter red for accents */
+  --md-accent-fg-color--transparent: rgba(163, 0, 0, 0.1);  /* Transparent version for backgrounds */
+}
+
+/* Custom color scheme for dark mode (slate) */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #8B0000;  /* Dark blood red */
+  --md-primary-fg-color--light: #B22222;  /* Lighter blood red for hover states */
+  --md-primary-fg-color--dark:  #660000;  /* Darker blood red for active states */
+
+  --md-accent-fg-color:         #A30000;  /* Slightly brighter red for accents */
+  --md-accent-fg-color--transparent: rgba(163, 0, 0, 0.1);  /* Transparent version for backgrounds */
+
+  /* Improve text readability in dark mode */
+  --md-typeset-color:           rgba(255, 255, 255, 0.65);  /* Much brighter text for better readability */
+  --md-default-fg-color:        rgba(255, 255, 255, 0.65);  /* Much brighter default text */
+  --md-default-fg-color--light: rgba(255, 255, 255, 0.75);  /* Brighter secondary text */
+  --md-default-fg-color--lighter: rgba(255, 255, 255, 0.85);  /* Brighter tertiary text */
+
+  /* Ensure links are also readable */
+  --md-typeset-a-color:         #ff0000;  /* Brighter link color */
+  /* --md-typeset-a-color:         #ff6e6e;  Brighter link color */
+}
