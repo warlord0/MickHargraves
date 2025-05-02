@@ -25,7 +25,7 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-    - media: "(prefers-color-scheme)"
+    - media: (prefers-color-scheme)
       toggle:
         icon: material/lightbulb-variant
         name: Switch to light mode
