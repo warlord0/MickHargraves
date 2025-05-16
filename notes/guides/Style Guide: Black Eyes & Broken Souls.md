@@ -15,42 +15,53 @@ This novel exists at the intersection of supernatural horror, detective noir, an
 
 ### Mick-Marchosias Relationship
 
-The relationship between Mick and the demon Marchosias should contain horror, symbiosis, and reluctant partnership elements, maintaining the tension between cooperation and possession.
+#### Core Dynamic
 
-- **Boundary Dissolution**: Unclear separation between demon and human consciousness
-- **Visceral Sharing**: Physical descriptions of shared bodily experience
-- **Control Struggles**: Moments where autonomy is contested
-- **Intimate Invasion**: Marchosias's presence as both violation and protection
-- **Transformation Anxiety**: Fear of becoming something other than human
-- **Distinctive Voices**: Marchosias speaks with antiquated formality mixed with dry observations; Mick responds with world-weary pragmatism
-- **Dual Consciousness**: Narrative balances Mick's perceptions with the demon's commentary
-- **Format**: The demon's speech/thoughts should be italicized in double quotes
+- Maintain an evolving symbiotic relationship with clear boundaries that gradually blur
+- Preserve Marchosias's superiority complex despite growing attachment
+- Balance growing mutual respect with fundamental differences in perspective
 
-**Example:**
+#### Marchosias's Character Traits
 
-*"Marchosias's consciousness surged forward, not asking permission. Mick felt himself being pushed aside in his own body, a sensation like being submerged in ice water while still breathing. His limbs moved without his direction, muscles responding to commands he hadn't given. Somewhere in the background of his own mind, he heard himself screaming. Not in pain, but in the existential terror of becoming a passenger in his own flesh.*
+- **Condescending Wisdom**: Marchosias should frequently remind Mick of human limitations with phrases like "your fragile human form," "your species' limited perception," or "typical human shortsightedness"
+- **Ancient Perspective**: Continue referencing millennia of experiences to highlight the gulf between them
+- **Reluctant Attachment**: Show subtle signs of caring while maintaining disdainful commentary
+- **Intellectual Curiosity**: Maintain genuine fascination with human sensations and experiences (particularly food) while being critical of human inefficiency
+- **Academic Tone**: Preserve his tendency to explain supernatural concepts as if lecturing a particularly slow student
 
-*"**I would not have intervened if you had a better solution,**" the demon's thoughts reverberated through his skull. "**Your hesitation would have resulted in both our demise.**"*
+#### Communication Style
 
-*"Warn me next time," Mick managed to think back, the mental effort like swimming through tar.*
+- **Internal Dialogue Format**: Marchosias's thoughts should consistently appear in *italics* and quotation marks
+- **Voice Patterns**: When speaking aloud through Mick, use *italics* with descriptors like "layered with harmonics" or "resonating with power"
+- **Verbal Tics**: Continue using more formal, occasionally archaic speech patterns to differentiate from Mick
+- **Backhanded Compliments**: "That was surprisingly intelligent for a human" or "You continue to exceed my admittedly low expectations"
 
-*"**There wasn't time for debate,**" Marchosias replied, an undercurrent of amusement in his ancient voice. "**Besides, I've been inside your thoughts long enough to know you secretly enjoy the rush.**"*"
+#### Relationship Evolution
 
-## Dialogue & Communication
+- **Reluctant Partnership → Grudging Respect → Genuine Symbiosis**: Maintain this arc while preserving Marchosias's fundamental otherness
+- **Shared Experiences**: Continue building intimacy through shared traumas and victories
+- **Philosophical Disagreements**: Preserve fundamental differences in moral perspective despite growing alignment in goals
+- **Protection vs. Possession**: Marchosias should waffle between viewing Mick as "his human" (possessively) and genuinely caring about his wellbeing
 
-- **Character-Specific Patterns**: The demon speaks with slightly formal, sometimes archaic phrasing; Mick uses clipped, direct statements with occasional profanity
-- **Mental Conversations**: Often use incomplete sentences and interruptions to show thoughts in formation
-- **Class-Appropriate Speech**: Secondary characters speak with dialogue reflecting their background and social position
-- **Internal/External Contrast**: Difference between Mick's spoken words and thoughts creates tension
-- **Fragmented Speech**: Broken sentence structures during intense fear or supernatural encounters
-- **Revelatory Pacing**: Strategic revelation of information through dialogue
-- **Demonic Voice Patterns**: Distinctive speech patterns for non-human entities
-- **Subtext-Heavy Exchanges**: What isn't said becomes as important as what is
-- **Philosophical Horror**: Existential questions embedded in dialogue
+#### Sensory Experiences
 
-**Example:**
+- **New Discoveries**: Maintain Marchosias's childlike wonder at physical sensations (especially food) while criticizing human bodies
+- **Enhanced Perception**: Continue showing how their merged consciousness perceives reality differently
+- **Physical Commentary**: Marchosias should regularly critique the inefficiencies of human biology while simultaneously enjoying its novel experiences
 
-*"'It's not—' Mick struggled to articulate what he'd seen. 'They weren't harvesting energy or souls or whatever you want to call it. They were harvesting consciousness itself. Taking it apart. Categorizing it. Like they were—' He pressed his palms against his eyes. 'Like they were building something out of people's awareness. Something conscious but... wrong.'"*
+#### Key Phrases to Maintain
+
+- "Your human limitations are showing again"
+- "I've existed for millennia, yet you continue to surprise me"
+- "This vessel is remarkably inefficient"
+- "For a human, that was almost impressive"
+- "Your species' obsession with [human concern] continues to baffle me"
+
+#### Power Dynamic
+
+- **Control Negotiations**: Continue explicit negotiations over who controls their shared body in different circumstances
+- **Skill Complementarity**: Emphasize how Mick's detective skills complement Marchosias's supernatural knowledge
+- **Mutual Dependence**: Maintain awareness that each needs the other despite occasional power struggles
 
 ## Graphic Elements & Gore
 

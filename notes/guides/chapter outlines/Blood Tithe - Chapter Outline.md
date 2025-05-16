@@ -2,6 +2,10 @@
 
 [See Blood Tithe (v2): Refined Novel Outline](Blood Tithe (v2): Refined Novel Outline.md)
 
+!!! note
+
+    I changed the way I wanted this to go. Some of the scenes may be reusable
+
 ## Book #2 - Chapter-by-Chapter Outline
 
 ### ACT I: THE SILENCED DEMON

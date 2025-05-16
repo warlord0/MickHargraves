@@ -5,7 +5,9 @@ description = "A Mick Hargraves Series"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "ebooklib>=0.19",
     "mkdocs>=1.6.1",
+    "mkdocs-awesome-nav>=3.1.1",
     "mkdocs-backlinks-section-plugin>=0.0.5",
     "mkdocs-material>=9.6.12",
     "mkdocs-minify-plugin>=0.8.0",

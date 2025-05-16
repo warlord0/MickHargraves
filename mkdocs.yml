@@ -53,6 +53,7 @@ plugins:
   - tags
   - minify:
       minify_html: true
+  - awesome-nav
   - backlinks_section:
       # ignore_links_from:
       #   - index.md
